@@ -4,8 +4,7 @@ using System.Text;
 
 namespace Raisa
 {
-    class ClassE
+    class ClassG
     {
-        int e;
     }
 }
